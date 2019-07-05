@@ -28,3 +28,5 @@ https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/second
 
 [37] [78] [Subsets]
 https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/Power_Set.ipynb
+
+[40] []137] [Single Numbers2] https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/non_duplicated_integer_with_three_google.ipynb
