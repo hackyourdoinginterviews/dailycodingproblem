@@ -5,6 +5,9 @@
 [2] [238] [Product of Array Expect Self ]
 https://github.com/hackyourdoinginterviews/dailycoingproblem/blob/master/problem2%5BUber%5D%5BHard%5D.ipynb
 
+[4] [41] [First Missing Positive]
+https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/first_Missing_postive_integer_stripe.ipynb
+
 [7][91] [Decode Ways]
 https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/DecodeWays.ipynb
 
