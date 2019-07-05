@@ -17,6 +17,9 @@ https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/proble
 [11] [Autocomplete]
 https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/autocomplete%20system.ipynb
 
+[20][160][Intersection of Two Linked Lists]
+https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/problem%5B20%5D%5Beasy%5D%5Bgoogle%5D.ipynb
+
 [21] [253] [Meeting Rooms II]
 https://github.com/hackyourdoinginterviews/dailycodingproblem/blob/master/Meeting_rooms_snapchat.ipynb
 
